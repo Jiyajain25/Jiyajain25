@@ -4,10 +4,14 @@
 
 - 🌱 I’m currently learning **Nextjs and TypeScript**
 
-- 💻 My projects:  
-  🔹 [NetflixGPT](https://github.com/Jiyajain25/NetflixGPT)  
-  🔹 [SkillUp - Learning Platform](https://github.com/Jiyajain25/SkillUp)
-  🔹 [Spotify - Music Website](https://github.com/Jiyajain25/Spotify-Clone-Website)
+📌 My projects:  
+🔹 [NetflixGPT](https://github.com/jiyajain25/NetflixGPT)  
+🔹 [SkillUp – Learning Platform](https://github.com/jiyajain25/SkillUp)  
+🔹 [Spotify – Music Website](https://github.com/your-repo/Spotify)  
+🔹 [Quiz App](https://github.com/your-repo/QuizApp)  
+🔹 [Weather App](https://github.com/your-repo/WeatherApp)
+
+  
   
 
 - 📫 Reach me at: **jainjiya9897@gmail.com**
