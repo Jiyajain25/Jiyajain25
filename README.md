@@ -18,7 +18,7 @@
 - LinkedIn:(https://www.linkedin.com/in/jiya-jain-b2a165253/)
 - Leetcode:(https://leetcode.com/u/jiyajain_2106/)
   
-📄 [Download My Resume]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1fasPz9eX7_wBT0ZWxPcXrMjSgT2wknMc/view?usp=sharing))
+📄 [Download My Resume](https://drive.google.com/file/d/1fasPz9eX7_wBT0ZWxPcXrMjSgT2wknMc/view?usp=sharing)
 
 ---
 
