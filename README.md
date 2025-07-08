@@ -13,9 +13,9 @@ I'm **Jiya Jain**, a passionate full-stack developer and learner who loves build
 📌 My projects:  
 🔹 [NetflixGPT](https://github.com/jiyajain25/netflix-gpt)  
 🔹 [SkillUp – Learning Platform](https://github.com/jiyajain25/skillup)  
-🔹 [Spotify – Music Website](https://github.com/your-repo/Spotify-Clone-Website)  
-🔹 [Quiz App](https://github.com/your-repo/QUIZ_APP)  
-🔹 [Weather App](https://github.com/your-repo/Weather_App)
+🔹 [Spotify – Music Website](https://github.com/Jiyajain25/Spotify-Clone-Website)  
+🔹 [Quiz App](https://github.com/Jiyajain25/QUIZ_APP)  
+🔹 [Weather App](https://github.com/Jiyajain25/Weather_App)
 
   
   
