@@ -55,7 +55,7 @@ I'm **Jiya Jain**, a passionate full-stack developer and learner who loves build
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyajain25&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jiyajain25&theme=radical)](https://git.io/streak-stats)
-![LeetCode Stats](https://leetcard.jacoblin.cool/jiyajain_2106?theme=dark&font=Baloo&ext=activity)
+
 
 
 
