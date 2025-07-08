@@ -1,6 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Jiya Jain</h1>
 <h3 align="center">Aspiring Frontend Developer | React.js | JavaScript | MySQL | Problem Solver</h3>
+Hi there 👋
+
+I'm **Jiya Jain**, a passionate full-stack developer and learner who loves building impactful web applications using React, TailwindCSS, and Next.js. I'm currently working on frontend projects and constantly exploring new technologies like Redux, AWS, and building websites using OpenAI.
+
+💡 I believe in continuous learning and collaboration. Let's connect and build something amazing!
+
 
 - 🌱 I’m currently learning **Nextjs and TypeScript**
 
@@ -49,6 +55,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyajain25&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jiyajain25&theme=radical)](https://git.io/streak-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jiyajain_2106?theme=dark&font=Baloo&ext=activity)
+
 
 
 
