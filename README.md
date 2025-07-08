@@ -7,6 +7,8 @@
 - 💻 My projects:  
   🔹 [NetflixGPT](https://github.com/Jiyajain25/NetflixGPT)  
   🔹 [SkillUp - Learning Platform](https://github.com/Jiyajain25/SkillUp)
+  🔹 [Spotify - Music Website]()
+  
 
 - 📫 Reach me at: **jainjiya9897@gmail.com**
 - LinkedIn:(https://www.linkedin.com/in/jiya-jain-b2a165253/) 
