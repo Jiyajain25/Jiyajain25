@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Jiya Jain</h1>
 <h3 align="center">Aspiring Frontend Developer | React.js | JavaScript | MySQL | Problem Solver</h3>
 
