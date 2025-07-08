@@ -46,6 +46,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40"/>
 </p>
 
+
+### 😄 Fun Facts
+- I enjoy solving real-world problems with code.
+- I love designing sleek UI/UX with Tailwind & Material UI.
+- Outside of coding, I enjoy reading and exploring design tools like Photoshop and Lightroom.
+
+
 <!--
 **Jiyajain25/Jiyajain25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
