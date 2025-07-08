@@ -7,7 +7,6 @@
 - 💻 My projects:  
   🔹 [NetflixGPT](https://github.com/Jiyajain25/NetflixGPT)  
   🔹 [SkillUp - Learning Platform](https://github.com/Jiyajain25/SkillUp)
-
   🔹 [Spotify - Music Website](https://github.com/Jiyajain25/Spotify-Clone-Website)
   
 
