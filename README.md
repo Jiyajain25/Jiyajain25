@@ -11,11 +11,11 @@ I'm **Jiya Jain**, a passionate full-stack developer and learner who loves build
 - 🌱 I’m currently learning **Nextjs and TypeScript**
 
 📌 My projects:  
-🔹 [NetflixGPT](https://github.com/jiyajain25/NetflixGPT)  
-🔹 [SkillUp – Learning Platform](https://github.com/jiyajain25/SkillUp)  
-🔹 [Spotify – Music Website](https://github.com/your-repo/Spotify)  
-🔹 [Quiz App](https://github.com/your-repo/QuizApp)  
-🔹 [Weather App](https://github.com/your-repo/WeatherApp)
+🔹 [NetflixGPT](https://github.com/jiyajain25/netflix-gpt)  
+🔹 [SkillUp – Learning Platform](https://github.com/jiyajain25/skillup)  
+🔹 [Spotify – Music Website](https://github.com/your-repo/Spotify-Clone-Website)  
+🔹 [Quiz App](https://github.com/your-repo/QUIZ_APP)  
+🔹 [Weather App](https://github.com/your-repo/Weather_App)
 
   
   
