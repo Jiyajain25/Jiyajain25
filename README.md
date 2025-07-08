@@ -49,6 +49,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyajain25&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jiyajain25&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiyajain25&show_icons=true&theme=radical)
 
 
 
